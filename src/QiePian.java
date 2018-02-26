@@ -56,5 +56,24 @@ public class QiePian {
 
     public static void main(String[] args){
         QiePian.printResult();
+        //1,1,0,2,2,2,4,3,3,4,2,0,0] 切割成 [[1,1],[0],[2,2,2],[4],[3,3],[4],[2],[0,0]]
+//        List<Integer> listInt = Arrays.asList(1,1,0,2,2,2,4,3,3,4,2,0,0);
+//        List<ArrayList> integers = new ArrayList<>();
+//        ArrayList arrayList = new ArrayList();
+//        int j = listInt.get(0);
+//        arrayList.add(j);
+//        for (int i = 1; i < listInt.size(); i++) {
+//            if(j == listInt.get(i)){
+//                arrayList.add(listInt.get(i));
+//            }else{
+//                integers.add(arrayList);
+//                arrayList = new ArrayList();
+//                arrayList.add(listInt.get(i));
+//            }
+//            j = listInt.get(i);
+//        }
+//        integers.add(arrayList);
+//        System.out.println(integers);
+
     }
 }
