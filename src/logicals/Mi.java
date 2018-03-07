@@ -1,3 +1,5 @@
+package logicals;
+
 /**
  * 找出1000000以内的正整数x，使得x+100和x+168都是完全平方数
  * @author : zhuxueke

@@ -1,3 +1,5 @@
+package logicals;
+
 import com.sun.deploy.util.ArrayUtil;
 
 import java.lang.reflect.Array;

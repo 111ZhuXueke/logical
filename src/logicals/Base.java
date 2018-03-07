@@ -1,3 +1,5 @@
+package logicals;
+
 /**
  * 通用接口
  * @author : zhuxueke

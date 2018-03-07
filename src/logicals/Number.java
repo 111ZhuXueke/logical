@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package logicals;
 
 /**
  * 给出由5、6、7、8组成的数字不同组合
